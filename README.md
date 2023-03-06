@@ -6,4 +6,4 @@ The goal isn't necessarily absolute accuracy (such a system might be unnecessari
 
 The project is licensed under the MIT license.
 
-Note: This project is currently in a mostly usable state. Prices fluctuate based on supply/demand curves and arbitrary (definable) inflation values in markets. Tests are included in the Market class, to demonstrate how the class should be used and the set-up steps required in order for it to work as intended.
+Note: This project is currently in a mostly usable state. Prices fluctuate based on supply/demand curves and a definable inflation modifier on a market-by-market basis. Tests are included in the Market class, to demonstrate how the class should be used and the set-up steps required in order for it to work as intended.
